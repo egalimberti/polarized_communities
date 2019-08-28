@@ -25,7 +25,7 @@ if __name__ == '__main__':
     parser.add_argument('a', help='algorithm', type=str)
     parser.add_argument('-mi', help='maximum iterations', type=int, default=np.inf)
     parser.add_argument('-ct', help='convergence threshold', type=float, default=0.2)
-    parser.add_argument('-b', help='beta', type=str, default='l1')
+    parser.add_argument('-b', help='multiplicative factor for random_eigensign', type=str, default='l1')
 
     args = parser.parse_args()
 
