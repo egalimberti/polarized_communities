@@ -10,7 +10,7 @@ This command builds the .c files created by Cython.
 Alternatively, without running the mentioned command, it is possible to directly execute the Python code.
 
 ## Execution
-Run the following command from the folder 'span_cores/':
+Run the following command from the folder 'polarized_communities/':
   'python main.py [-h] [-b B] d a'
 
 #### Positional arguments:
