@@ -1,4 +1,4 @@
-# [Discovering polarized communities in signed networks](http://edoardogalimberti.altervista.org/documents/papers/***.pdf)
+# [Discovering Polarized Communities in Signed Networks](http://edoardogalimberti.altervista.org/documents/papers/***.pdf)
 
 ## Folders
 * datasets: datasets listed in Table 1
